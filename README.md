@@ -12,11 +12,11 @@ Hi, I'm Melih Cetinkaya, a 19-year-old software development student passionate a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melih0132&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melih0132&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=melih0132&icon=1&color=12)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
+## You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/melih0132) 
