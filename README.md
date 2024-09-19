@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Melih Cetinkaya, a 19-year-old software development student passionate about building innovative and functional applications. Currently studying in Annecy, I’m proficient in languages like JavaScript, C#, and PHP, with hands-on experience in web development and game programming. I enjoy learning new technologies and refining my skills by working on various projects, from platform games to responsive websites.<br><br>Let’s connect and collaborate!
+Hi, I'm Melih Cetinkaya, a 19-year-old software development student passionate about building innovative and functional applications. Currently studying in Annecy, I’m proficient in languages like JavaScript, C#, and PHP, with hands-on experience in web development and game programming. I enjoy learning new technologies and refining my skills by working on various projects, from platform games to responsive websites.
 
 
 ## 🌐 Socials:
