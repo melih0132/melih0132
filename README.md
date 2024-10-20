@@ -72,8 +72,8 @@ Hi, I'm Melih Cetinkaya, a 19-year-old software development student based in Ann
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=melih0132&icon=1&color=12)](https://visitcount.itsvg.in)
-
 ## Support My Work
 
-If you'd like to support my work, consider donating: [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/melih0132)
+If you'd like to support my work, consider donating: 
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/melih0132)
