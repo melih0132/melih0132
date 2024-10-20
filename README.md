@@ -69,7 +69,6 @@ Hi, I'm Melih Cetinkaya, a 19-year-old software development student based in Ann
 ### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 
 ## Support My Work
