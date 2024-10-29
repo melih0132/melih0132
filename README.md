@@ -1,75 +1,108 @@
-# About Me
+<div align="center">
+  
+# 👨‍💻 Melih Cetinkaya
 
-Hi, I'm Melih Cetinkaya, a 19-year-old software development student based in Annecy. I am passionate about crafting innovative, functional, and user-focused applications. My expertise spans several programming languages, including JavaScript, C#, and PHP, with solid hands-on experience in web development and game programming. I’m always eager to learn new technologies and work on exciting projects, from building dynamic websites to creating engaging platform games. 
+[![Views](https://komarev.com/ghpvc/?username=melih0132&color=blue&style=flat-square&label=Profile+Views)](https://github.com/melih0132)
 
-## Socials
+### 🎓 Software Development Student | 🌍 Annecy, France
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.ctk1) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aucune_idee_sah) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melih-ctk) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23113808) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MelMet32) 
+Passionate about crafting innovative solutions through code. I specialize in web development and game programming, 
+constantly exploring new technologies to create impactful applications.
 
----
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/melih-ctk)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://instagram.com/m.ctk1)
+[<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/23113808)
+[<img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/MelMet32)
+[<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/aucune_idee_sah)
 
-# Tech Stack
+</div>
 
-### Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+## 🚀 About Me
+
+- 🎯 Currently focused on full-stack web development and game programming
+- 🌱 Learning advanced JavaScript frameworks and game development patterns
+- 💡 Interested in innovative technology solutions and creative coding
+- 🎮 Passionate about game development using Unity
+- 🌐 Building dynamic web applications with modern tech stacks
+
+## 💻 Technical Skills
+
+### Languages
+```
+⭐⭐⭐ JavaScript    ⭐⭐⭐ C#           ⭐⭐⭐ PHP
+⭐⭐   Python       ⭐⭐⭐ HTML/CSS      ⭐⭐   SQL
+```
+
+### Frameworks & Technologies
+<div align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+</div>
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/pgsql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-### Frameworks and Libraries
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio%202022-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![FileZilla](https://img.shields.io/badge/FileZilla-%23000000.svg?style=for-the-badge&logo=filezilla&logoColor=white)
-
-### Project Management & Collaboration
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white) 
-![Microsoft Teams](https://img.shields.io/badge/Teams-%2300804C.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white) 
+### Development Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
+</div>
 
 ### Design & Prototyping
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white) 
+<div align="left">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+</div>
 
-### Business Intelligence & Data Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-%23121D6D.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melih0132&theme=github_dark&hide_border=true)](https://github.com/melih0132)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melih0132&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/melih0132)
+
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=melih0132&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/melih0132/YOUR_REPO_NAME)
+
+</div>
+
+## 📫 Get in Touch
+
+- 💼 Professional inquiries: [LinkedIn](https://linkedin.com/in/melih-ctk)
+- 🤝 Collaboration: [GitHub](https://github.com/melih0132)
+- 💬 Quick chat: [Discord](https://discord.gg/aucune_idee_sah)
+
+## 🎯 Current Focus
+
+- Building a portfolio of full-stack web applications
+- Developing game prototypes using Unity
+- Contributing to open-source projects
+- Expanding knowledge in cloud technologies
+
+## 💖 Support My Work
+
+If you find my work helpful, consider supporting me:
+
+[<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />](https://paypal.me/melih0132)
 
 ---
 
-# GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=melih0132&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=melih0132&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### Random Dev Quote
-
+<div align="center">
+  
+### 💭 Random Dev Quote
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-## Support My Work
-
-If you'd like to support my work, consider donating: 
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/melih0132)
+</div>
