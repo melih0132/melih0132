@@ -6,8 +6,7 @@
 
 ### 🎓 Software Development Student | 🌍 Annecy, France
 
-Passionate about crafting innovative solutions through code. I specialize in web development and game programming, 
-constantly exploring new technologies to create impactful applications.
+Passionate about crafting innovative solutions through code. I specialize in web development and software engineering, constantly exploring new technologies to create impactful applications.
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/melih-ctk)
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://instagram.com/m.ctk1)
@@ -18,10 +17,10 @@ constantly exploring new technologies to create impactful applications.
 
 ## 🚀 About Me
 
-- 🎯 Currently focused on web development
+- 🎯 Currently focused on web development and software solutions
 - 🌱 Learning advanced JavaScript frameworks
-- 💡 Interested in innovative technology solutions and ccreative coding including AI
-- 🎮 Skilled in developing games using Unity
+- 💡 Interested in innovative technology solutions and creative coding including AI
+- 🎮 Skilled in developing prototypes using Unity as a hobby
 - 🌐 Building dynamic applications with modern tech stacks
 
 ## 💻 Technical Skills
@@ -41,9 +40,7 @@ constantly exploring new technologies to create impactful applications.
 <div align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-%23323330.svg?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phaser-%23404d59.svg?style=for-the-badge&logo=phaser&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/JQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
@@ -89,7 +86,7 @@ constantly exploring new technologies to create impactful applications.
 ## 🎯 Current Focus
 
 - Building a portfolio of full-stack web applications
-- Developing game prototypes using Unity
+- Developing game prototypes using Unity as a hobby
 - Contributing to open-source projects
 - Expanding knowledge in cloud technologies
 
