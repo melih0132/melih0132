@@ -86,14 +86,6 @@ constantly exploring new technologies to create impactful applications.
 
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=melih0132&repo=YOUR_REPO_NAME&theme=github_dark)](https://github.com/melih0132/YOUR_REPO_NAME)
-
-</div>
-
 ## 🎯 Current Focus
 
 - Building a portfolio of full-stack web applications
