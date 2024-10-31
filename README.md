@@ -18,11 +18,11 @@ constantly exploring new technologies to create impactful applications.
 
 ## 🚀 About Me
 
-- 🎯 Currently focused on full-stack web development and game programming
-- 🌱 Learning advanced JavaScript frameworks and game development patterns
-- 💡 Interested in innovative technology solutions and creative coding
-- 🎮 Passionate about game development using Unity
-- 🌐 Building dynamic web applications with modern tech stacks
+- 🎯 Currently focused on web development
+- 🌱 Learning advanced JavaScript frameworks
+- 💡 Interested in innovative technology solutions and ccreative coding including AI
+- 🎮 Skilled in developing games using Unity
+- 🌐 Building dynamic applications with modern tech stacks
 
 ## 💻 Technical Skills
 
