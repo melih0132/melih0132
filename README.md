@@ -11,8 +11,8 @@ constantly exploring new technologies to create impactful applications.
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/melih-ctk)
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://instagram.com/m.ctk1)
-[<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/23113808)
 [<img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/MelMet32)
+[<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/23113808)
 
 </div>
 
