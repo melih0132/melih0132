@@ -19,8 +19,8 @@ Passionate about crafting innovative solutions through code. I specialize in web
 
 - 🎯 Currently focused on web development and software solutions
 - 🌱 Learning advanced JavaScript frameworks
-- 💡 Interested in innovative technology solutions and creative coding including AI
-- 🎮 Skilled in developing prototypes using Unity as a hobby
+- 💡 Interested in innovative technology solutions and creative coding with AI
+- 🎮 Skilled in developing prototypes using Unity
 - 🌐 Building dynamic applications with modern tech stacks
 
 ## 💻 Technical Skills
@@ -86,7 +86,7 @@ Passionate about crafting innovative solutions through code. I specialize in web
 ## 🎯 Current Focus
 
 - Building a portfolio of full-stack web applications
-- Developing game prototypes using Unity as a hobby
+- Developing game with phaser
 - Contributing to open-source projects
 - Expanding knowledge in cloud technologies
 
