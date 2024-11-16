@@ -4,7 +4,7 @@
 
 [![Views](https://komarev.com/ghpvc/?username=melih0132&color=blue&style=flat-square&label=Profile+Views)](https://github.com/melih0132)
 
-### 🎓 Software Development Student | 🌍 Annecy, France
+### 🎓 Computer Science Student | 🌍 Annecy, France
 
 Passionate about crafting innovative solutions through code. I specialize in web development and software engineering, constantly exploring new technologies to create impactful applications.
 
