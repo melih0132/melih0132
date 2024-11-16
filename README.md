@@ -42,15 +42,12 @@ Passionate about crafting innovative solutions through code. I specialize in web
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Socket.io-%23323330.svg?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
 
 ### Databases
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-%230072b7.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%234F4F4F.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PgAdmin4-%230E2A7A.svg?style=for-the-badge&logo=pgadmin&logoColor=white" />
   <img src="https://img.shields.io/badge/PhpMyAdmin-%230C7D9A.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 </div>
