@@ -57,9 +57,8 @@ Dedicated computer science student focused on developing innovative software sol
 ## Current Focus
 
 - Full-stack Web Application Development
-- Game Development with Phaser
-- Open Source Contributions
-- Cloud Technology Integration
+- Cloning a big project (Uber & Uber Eats)
+- Learning ChatBot for websites (BotMan)
 
 ## Statistics
 
