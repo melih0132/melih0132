@@ -66,7 +66,7 @@ Dedicated computer science student focused on developing innovative software sol
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melih0132&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/melih0132)
 
-### 💭 Random Dev Quote
+### Random Dev Quote
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
