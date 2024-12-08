@@ -12,26 +12,28 @@ Dedicated computer science student focused on developing innovative software sol
 
 **Programming Languages**
 - HTML, CSS, JavaScript
-- PHP, Python, R
-- C#, SQL
-- Bash, AutoIT
+- PHP, Python
+- .NET/C#, SQL
+- Bash
 
 **Development Frameworks**
 - Node.js, Express
+- Laravel
 - Bootstrap
-- Socket.io
+- Socket.io, Nodemon
 - WPF
 - Unity, Phaser
 
 **Database Technologies**
 - PostgreSQL
-- MongoDB
 - pgAdmin4
+- MCD, MLD (Data Modeling)
 
 **Development Tools**
 - Visual Studio Code
 - Visual Studio
 - Visual Paradigm
+- Microsoft Azure
 - PowerAMC
 - Git, GitHub
 - Linux
@@ -56,7 +58,7 @@ Dedicated computer science student focused on developing innovative software sol
 
 ## Current Focus
 
-- Full-stack Web Application Development
+- Building Full-Stack Web Applications
 - Cloning a big project (Uber & Uber Eats)
 - Learning ChatBot for websites (BotMan)
 
