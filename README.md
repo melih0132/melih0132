@@ -64,7 +64,7 @@ Dedicated computer science student focused on developing innovative software sol
 
 ## Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=melih0132&theme=github-dark&hide_border=true)](https://github.com/melih0132)
+[![GitHub Streak](https://streak-stats.demolab.com?user=melih0132&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melih0132&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/melih0132)
 
