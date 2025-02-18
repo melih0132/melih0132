@@ -66,7 +66,7 @@ Dedicated computer science student focused on developing innovative software sol
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=melih0132&hide=contribs,prs&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melih0132" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melih0132&theme=radical" height="150" alt="languages graph"  />
 </div>
 
 ###
