@@ -2,65 +2,53 @@
 
 [![Views](https://komarev.com/ghpvc/?username=melih0132&color=blue&style=flat-square&label=Profile+Views)](https://github.com/melih0132)
 
-Computer Science Student | Annecy, France
+Computer Science Student | Full-Stack Developer | Annecy, France
 
 ## Professional Summary
 
-Dedicated computer science student focused on developing innovative software solutions and web applications. Experienced in full-stack development with a strong foundation in modern technologies and methodologies.
+Passionate and driven Computer Science student with a strong focus on full-stack development and innovative software solutions. Skilled in designing and implementing web applications, databases, and APIs using modern technologies. Experienced in Agile methodologies and collaborative development environments. Always eager to learn and contribute to impactful projects.
 
 ## Technical Expertise
 
 **Programming Languages**
-- HTML, CSS, JavaScript
-- PHP, Python
-- .NET/C#, SQL
-- Bash
+- Frontend: HTML, CSS, JavaScript, XAML
+- Backend: PHP, Python, .NET/C#, Node.js, Bash
+- Database: SQL, PL/pgSQL
 
-**Development Frameworks**
-- Node.js, Express
-- Laravel
-- Bootstrap
-- Socket.io, Nodemon
-- WPF
-- Unity, Phaser
+**Frameworks & Libraries**
+- Frontend: Bootstrap, jQuery, WPF
+- Backend: Laravel, Express, Socket.io, Nodemon, Phaser
+- APIs: RESTful APIs, WebSockets
 
 **Database Technologies**
-- PostgreSQL
-- pgAdmin4
-- MCD, MLD (Data Modeling)
+- Relational: PostgreSQL, pgAdmin4
+- NoSQL: MongoDB
+- Data Modeling: MCD, MLD, JSON/JSONB
+- Optimization: Indexation, Reverse Engineering
 
 **Development Tools**
-- Visual Studio Code
-- Visual Studio
-- Visual Paradigm
-- Microsoft Azure
-- PowerAMC
-- Git, GitHub
-- Linux
-- Trello
-- Microsoft Teams
+- IDEs: Visual Studio Code, Visual Studio
+- Version Control: Git, GitHub, GitLab
+- Game Development: Unity
+- Modeling: Visual Paradigm, PowerAMC
+- DevOps: Microsoft Azure, Nginx, Apache, Linux
 
 **Data Analysis & Visualization**
-- Excel
-- Power BI
+- Excel, Power BI
 
-**Design Tools**
-- Figma
-- Adobe Illustrator
-- WordPress
-- Canva
+**Design & Prototyping**
+- Figma, Adobe Illustrator, WordPress, Canva
 
 **Methodologies & Practices**
-- Unit Testing
-- UML Modeling
-- Agile Development
-- Scrum Framework
+- Testing: Unit Testing, Swagger, Postman
+- Design Patterns: MVC, MVVM
+- Project Management: Agile, Scrum
+- Others : UML
 
 ## Current Focus
 
-- Building Full-Stack Web Applications
-- Cloning a big project (Uber & Uber Eats)
-- Learning ChatBot for websites (BotMan)
+- Actively seeking opportunities to contribute to innovative projects, enhance my skills, and gain hands-on experience in full-stack development within a professional environment.
+- Developing robust, scalable, and efficient web applications using C# (.NET) and modern frameworks to solve real-world problems.
 
 ## Statistics
 
