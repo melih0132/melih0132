@@ -8,47 +8,51 @@ Computer Science Student | Full-Stack Developer | Annecy, France
 
 Passionate and driven Computer Science student with a strong focus on full-stack development and innovative software solutions. Skilled in designing and implementing web applications, databases, and APIs using modern technologies. Experienced in Agile methodologies and collaborative development environments. Always eager to learn and contribute to impactful projects.
 
-## Technical Expertise
+### **Programming Languages**
+- **Frontend**: HTML, CSS, JavaScript, XAML
+- **Backend**: PHP, Python, .NET/C#, Node.js, Bash
+- **Database**: SQL, PL/pgSQL
 
-**Programming Languages**
-- Frontend: HTML, CSS, JavaScript, XAML
-- Backend: PHP, Python, .NET/C#, Node.js, Bash
-- Database: SQL, PL/pgSQL
+### **Frameworks & Libraries**
+- **Frontend**: Bootstrap, jQuery, WPF, Vue.js
+- **Backend**: Laravel, Express, Socket.io, Nodemon, Phaser
+- **Mobile Development**: Flutter
+- **APIs**: RESTful APIs, WebSockets
 
-**Frameworks & Libraries**
-- Frontend: Bootstrap, jQuery, WPF, Vue.js, Flutter
-- Backend: Laravel, Express, Socket.io, Nodemon, Phaser
-- APIs: RESTful APIs, WebSockets
+### **Database Technologies**
+- **Relational**: PostgreSQL, pgAdmin4
+- **NoSQL**: MongoDB
+- **Data Modeling**: ERD, LDM, JSON/JSONB
+- **Optimization**: Indexation, Reverse Engineering
 
-**Database Technologies**
-- Relational: PostgreSQL, pgAdmin4
-- NoSQL: MongoDB
-- Data Modeling: MCD, MLD, JSON/JSONB
-- Optimization: Indexation, Reverse Engineering
+### **Development Tools**
+- **IDEs**: Visual Studio Code, Visual Studio
+- **Version Control**: Git, GitHub, GitLab
+- **Game Development**: Unity
+- **Modeling**: Visual Paradigm, PowerAMC
 
-**Development Tools**
-- IDEs: Visual Studio Code, Visual Studio
-- Version Control: Git, GitHub, GitLab
-- Game Development: Unity
-- Modeling: Visual Paradigm, PowerAMC
-- DevOps: Microsoft Azure, Nginx, Apache, Linux
+### **DevOps & Cloud**
+- **Tools**: Docker, Nginx, Apache
+- **Platforms**: Microsoft Azure
+- **Operating Systems**: Linux
 
-**Data Analysis & Visualization**
+### **Data Analysis & Visualization**
 - Excel, Power BI
 
-**Design & Prototyping**
+### **Design & Prototyping**
 - Figma, Adobe Illustrator, WordPress, Canva
 
-**Methodologies & Practices**
-- Testing: Unit Testing, Swagger, Postman
-- Design Patterns: MVC, MVVM
-- Project Management: Agile, Scrum
-- Others : UML
+### **Methodologies & Practices**
+- **Testing**: Unit Testing, Swagger, Postman
+- **Design Patterns**: MVC, MVVM
+- **Project Management**: Agile, Scrum
+- **Others**: UML
 
 ## Current Focus
 
 - Actively seeking opportunities to contribute to innovative projects, enhance my skills, and gain hands-on experience in full-stack development within a professional environment.
 - Developing robust, scalable, and efficient web applications using C# (.NET) and modern frameworks to solve real-world problems.
+- Exploring mobile development with **Flutter** and containerization with **Docker**.
 
 ## Statistics
 
