@@ -10,12 +10,12 @@ Passionate and driven Computer Science student with a strong focus on full-stack
 
 ### **Programming Languages**
 - **Frontend**: HTML, CSS, JavaScript, XAML
-- **Backend**: PHP, Python, .NET/C#, Node.js, Bash
+- **Backend**: PHP, Python, .NET/C#, Bash
 - **Database**: SQL, PL/pgSQL
 
 ### **Frameworks & Libraries**
 - **Frontend**: Bootstrap, jQuery, WPF, Vue.js
-- **Backend**: Laravel, Express, Socket.io, Nodemon, Phaser
+- **Backend**: Laravel, Node.js, Express, Socket.io, Nodemon, Phaser
 - **Mobile Development**: Flutter
 - **APIs**: RESTful APIs, WebSockets, Axios, AJAX
 
