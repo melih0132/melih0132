@@ -16,7 +16,7 @@ Passionate and driven Computer Science student with a strong focus on full-stack
 - Database: SQL, PL/pgSQL
 
 **Frameworks & Libraries**
-- Frontend: Bootstrap, jQuery, WPF, Vue.js
+- Frontend: Bootstrap, jQuery, WPF, Vue.js, Flutter
 - Backend: Laravel, Express, Socket.io, Nodemon, Phaser
 - APIs: RESTful APIs, WebSockets
 
