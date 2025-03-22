@@ -54,16 +54,6 @@ Passionate and driven Computer Science student with a strong focus on full-stack
 - Developing robust, scalable, and efficient web applications using C# (.NET) and modern frameworks to solve real-world problems.
 - Exploring mobile development with **Flutter** and containerization with **Docker**.
 
-## Statistics
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=melih0132&hide=contribs,prs&theme=dark" height="150" alt="stats graph"  />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melih0132&theme=dark" height="250" alt="languages graph"  />
-</div>
-
-###
-
 ## Support
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/melih0132)
