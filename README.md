@@ -51,7 +51,7 @@ Passionate and driven Computer Science student with a strong focus on full-stack
 ## Current Focus
 
 - Actively seeking opportunities to contribute to innovative projects, enhance my skills, and gain hands-on experience in full-stack development within a professional environment.
-- Developing robust, scalable, and efficient web applications using C# (.NET) and modern frameworks to solve real-world problems.
+- Building a full-stack website for a Swiss event agency using **React** and **FastAPI**.
 - Exploring mobile development with **Flutter** and containerization with **Docker**.
 
 ## Support
