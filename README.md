@@ -2,7 +2,8 @@
 
 [![Views](https://komarev.com/ghpvc/?username=melih0132&color=blue&style=flat-square&label=Profile+Views)](https://github.com/melih0132)
 
-Computer Science Student | Full-Stack Developer | Annecy, France
+Computer Science Student | Full-Stack Developer
+Annecy, France
 
 ## Professional Summary
 
