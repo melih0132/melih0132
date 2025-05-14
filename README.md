@@ -2,57 +2,47 @@
 
 [![Views](https://komarev.com/ghpvc/?username=melih0132&color=blue&style=flat-square&label=Profile+Views)](https://github.com/melih0132)
 
-Computer Science Student | Full-Stack Developer | Annecy, France
+*Computer Science Student | Full-Stack Developer*  
+Annecy, France  
 
 ## Professional Summary
 
-Passionate and driven Computer Science student with a strong focus on full-stack development and innovative software solutions. Skilled in designing and implementing web applications, databases, and APIs using modern technologies. Experienced in Agile methodologies and collaborative development environments. Always eager to learn and contribute to impactful projects.
+Motivated Computer Science student specializing in full-stack development with hands-on experience building web applications, APIs, and database systems. Proficient in modern development stacks and Agile methodologies. Passionate about creating efficient solutions and continuously expanding my technical skillset in professional environments.
 
-### **Programming Languages**
-- **Frontend**: HTML, CSS, JavaScript, XAML
-- **Backend**: PHP, Python, .NET/C#, Bash
-- **Database**: SQL, PL/pgSQL
+### **Technical Skills**
+#### **Programming Languages**
+- **Frontend**: `HTML`/`CSS`, `JavaScript` (ES6+), `XAML` 
+- **Backend**: `Python`, `.NET/C#`, `PHP`, `Bash` scripting
+- **Database**: `SQL`, `PL/pgSQL` (PostgreSQL)
 
-### **Frameworks & Libraries**
-- **Frontend**: Bootstrap, jQuery, WPF, Vue.js
-- **Backend**: Laravel, Node.js, Express, Socket.io, Nodemon, Phaser
-- **Mobile Development**: Flutter
-- **APIs**: RESTful APIs, WebSockets, Axios
+#### **Frameworks & Libraries**
+- **Web**: `Vue.js`, `React` (in progress), `Bootstrap`
+- **Server**: `Node.js`/`Express`, `Laravel`, `Socket.io`
+- **Mobile**: `Flutter` (learning)
+- **APIs**: `REST`, `WebSockets`, `Axios`
 
-### **Database Technologies**
-- **Relational**: PostgreSQL, pgAdmin4
-- **NoSQL**: MongoDB
-- **Data Modeling**: ERD, LDM, JSON/JSONB
-- **Optimization**: Indexation, Reverse Engineering
+#### **Database Expertise**
+- **Relational**: `PostgreSQL` (advanced), `pgAdmin`
+- **NoSQL**: `MongoDB` fundamentals
+- **Data Architecture**: `ERD` design, `JSON/JSONB` structures
+- **Performance**: Query optimization, indexing
 
-### **Development Tools**
-- **IDEs**: Visual Studio Code, Visual Studio
-- **Version Control**: Git, GitHub, GitLab
-- **Game Development**: Unity
-- **Modeling**: Visual Paradigm, PowerAMC
+### **Development Toolkit**
+- **IDEs**: `VS Code`, `Visual Studio`
+- **Version Control**: `Git` with `GitHub/GitLab`
+- **DevOps**: `Docker` containers, `Nginx`, `Azure` cloud
+- **Game Development**: `Unity` for personal projects
 
-### **DevOps & Cloud**
-- **Tools**: Docker, Nginx, Apache
-- **Platforms**: Microsoft Azure
-- **Operating Systems**: Linux
-
-### **Data Analysis & Visualization**
-- Excel, Power BI
-
-### **Design & Prototyping**
-- Figma, Adobe Illustrator, WordPress, Canva
-
-### **Methodologies & Practices**
-- **Testing**: Unit Testing, Swagger, Postman
-- **Design Patterns**: MVC, MVVM
-- **Project Management**: Agile, Scrum
-- **Others**: UML
+### **Additional Competencies**
+- **Data Analysis**: `Power BI`, advanced `Excel`
+- **UI/UX**: `Figma` prototyping, `Illustrator` basics
+- **Methodologies**: `Agile/Scrum`, `MVC/MVVM` patterns, `UML`
 
 ## Current Focus
-
-- Actively seeking opportunities to contribute to innovative projects, enhance my skills, and gain hands-on experience in full-stack development within a professional environment.
-- Building a full-stack website for a Swiss event agency using **React** and **FastAPI**.
-- Exploring mobile development with **Flutter** and containerization with **Docker**.
+- Developing a full-stack event management system using `React` and `FastAPI`
+- Exploring cross-platform development with `Flutter`
+- Implementing containerization with `Docker` in personal projects
+- Seeking internship opportunities to apply and enhance my skills in a professional setting
 
 ## Support
 
