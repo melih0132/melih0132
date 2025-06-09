@@ -16,13 +16,13 @@ Motivated Computer Science student specializing in full-stack development with h
 - **Database**: `SQL`, `PL/pgSQL` (PostgreSQL)
 
 #### **Frameworks & Libraries**
-- **Web**: `Vue.js`, `React` (in progress), `Bootstrap`
-- **Server**: `Node.js`/`Express`, `Laravel`, `Socket.io`
-- **Mobile**: `Flutter` (learning)
+- **Web**: `Vue.js`, `React`, `Next.js`, `Bootstrap`
+- **Server**: `Node.js`/`Express`, `Laravel`, `FastAPI`, `Socket.io`
+- **Mobile**: `Flutter`
 - **APIs**: `REST`, `WebSockets`, `Axios`
 
 #### **Database Expertise**
-- **Relational**: `PostgreSQL` (advanced), `pgAdmin`
+- **Relational**: `PostgreSQL`, `pgAdmin`
 - **NoSQL**: `MongoDB` fundamentals
 - **Data Architecture**: `ERD` design, `JSON/JSONB` structures
 - **Performance**: Query optimization, indexing
@@ -35,14 +35,13 @@ Motivated Computer Science student specializing in full-stack development with h
 
 ### **Additional Competencies**
 - **Data Analysis**: `Power BI`, advanced `Excel`
-- **UI/UX**: `Figma` prototyping, `Illustrator` basics
-- **Methodologies**: `Agile/Scrum`, `MVC/MVVM` patterns, `UML`
+- **UI/UX**: `Figma` and `Framer` prototyping, `Illustrator` basics
+- **Methodologies**: `Agile/Scrum`, `MVC`, `UML`
 
 ## Current Focus
 - Developing a full-stack event management system using `React` and `FastAPI`
-- Exploring cross-platform development with `Flutter`
-- Implementing containerization with `Docker` in personal projects
-- Seeking internship opportunities to apply and enhance my skills in a professional setting
+- Implementing containerization with `Docker` in projects
+- Seeking an **apprenticeship** starting in **September 2025** to apply and deepen my skills in a professional environment
 
 ## Support
 
