@@ -7,42 +7,41 @@ Annecy, France
 
 ## Professional Summary
 
-Motivated Computer Science student specializing in full-stack development with hands-on experience building web applications, APIs, and database systems. Proficient in modern development stacks and Agile methodologies. Passionate about creating efficient solutions and continuously expanding my technical skillset in professional environments.
+Computer Science student specializing in full-stack development with practical experience in designing and deploying web applications, APIs, and database systems. Skilled in modern frameworks, cloud environments, and Agile workflows. Strong focus on building efficient, scalable solutions and continuously advancing technical expertise.
 
-### **Technical Skills**
-#### **Programming Languages**
-- **Frontend**: `HTML`/`CSS`, `JavaScript` (ES6+), `XAML` 
-- **Backend**: `Python`, `.NET/C#`, `PHP`, `Bash` scripting
-- **Database**: `SQL`, `PL/pgSQL` (PostgreSQL)
+## Technical Skills
 
-#### **Frameworks & Libraries**
-- **Web**: `Vue.js`, `React`, `Next.js`, `Bootstrap`
-- **Server**: `Node.js`/`Express`, `Laravel`, `FastAPI`, `Socket.io`
-- **Mobile**: `Flutter`
-- **APIs**: `REST`, `WebSockets`, `Axios`
+### Programming Languages
+- **Frontend**: `HTML`, `CSS`, `JavaScript (ES6+)`, `XAML`  
+- **Backend**: `Python`, `C#/.NET`, `PHP`, `Bash`  
+- **Databases**: `SQL`, `PL/pgSQL` (PostgreSQL)  
 
-#### **Database Expertise**
-- **Relational**: `PostgreSQL`, `pgAdmin`
-- **NoSQL**: `MongoDB` fundamentals
-- **Data Architecture**: `ERD` design, `JSON/JSONB` structures
-- **Performance**: Query optimization, indexing
+### Frameworks & Libraries
+- **Frontend**: `React`, `Vue.js`, `Next.js`, `Bootstrap`, `WordPress`  
+- **Backend**: `Node.js`/`Express`, `Laravel`, `FastAPI`, `Socket.io`  
+- **Mobile**: `Flutter`  
+- **APIs**: `REST`, `WebSockets`, `Axios`  
 
-### **Development Toolkit**
-- **IDEs**: `VS Code`, `Visual Studio`
-- **Version Control**: `Git` with `GitHub/GitLab`
-- **DevOps**: `Docker` containers, `Nginx`, `Azure` cloud
-- **Game Development**: `Unity` for personal projects
+### Database Expertise
+- **Relational**: `PostgreSQL`, `pgAdmin`  
+- **NoSQL**: `MongoDB` (fundamentals)  
+- **Modeling**: `ERD`, `JSON/JSONB` structures  
+- **Optimization**: query tuning, indexing  
 
-### **Additional Competencies**
-- **Data Analysis**: `Power BI`, advanced `Excel`
-- **UI/UX**: `Figma` and `Framer` prototyping, `Illustrator` basics
-- **Methodologies**: `Agile/Scrum`, `MVC`, `UML`
+### Development Toolkit
+- **IDEs**: `VS Code`, `Visual Studio`  
+- **Version Control**: `Git` with `GitHub` / `GitLab`  
+- **DevOps**: `Docker`, `Nginx`, `Azure`  
+- **Game Dev**: `Unity` (personal projects)  
+
+### Additional Competencies
+- **Data Analysis**: `Power BI`, advanced `Excel`  
+- **UI/UX**: `Figma`, `Framer`, basic `Illustrator`  
+- **Methodologies**: `Agile/Scrum`, `MVC`, `UML`  
 
 ## Current Focus
-- Developing a full-stack event management system using `React` and `FastAPI`
-- Implementing containerization with `Docker` in projects
-- Seeking an **apprenticeship** starting in **September 2025** to apply and deepen my skills in a professional environment
+- Developing and customizing web solutions with `WordPress`  
+- Exploring orchestration with `Kubernetes`  
 
 ## Support
-
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/melih0132)
