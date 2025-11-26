@@ -13,7 +13,8 @@ Computer Science student specializing in full-stack development with practical e
 
 ### Programming Languages
 - **Frontend**: `HTML`, `CSS`, `JavaScript (ES6+)`, `XAML`  
-- **Backend**: `Python`, `C#/.NET`, `PHP`, `Bash`  
+- **Backend**: `Python`, `C#/.NET`, `PHP`, `Bash`
+- **Mobile**: `Swift`, `Dart`  
 - **Databases**: `SQL`, `PL/pgSQL` (PostgreSQL)  
 
 ### Frameworks & Libraries
@@ -25,15 +26,16 @@ Computer Science student specializing in full-stack development with practical e
 
 ### Database Expertise
 - **Relational**: `PostgreSQL`, `pgAdmin`  
-- **NoSQL**: `MongoDB` (fundamentals)  
+- **NoSQL**: `MongoDB` 
 - **Modeling**: `ERD`, `JSON/JSONB` structures  
 - **Optimization**: query tuning, indexing  
 
 ### Development Toolkit
-- **IDEs**: `VS Code`, `Visual Studio`, `Xcode`, `Android Studio`  
-- **Version Control**: `Git` with `GitHub` / `GitLab`  
+- **IDEs**: `VS Code`, `Visual Studio`, `Xcode`
+- **Version Control**: `Git` with `GitHub` / `GitLab` / `Bitbucket`  
 - **DevOps**: `Docker`, `Nginx`, `Azure`  
-- **Game Dev**: `Unity`, `Blender`  
+- **Environments & Tools**: `Laragon`, `FileZilla`  
+- **Game Dev**: `Unity`
 
 ### Additional Competencies
 - **Data Analysis**: `Power BI`, advanced `Excel`  
@@ -42,7 +44,6 @@ Computer Science student specializing in full-stack development with practical e
 
 ## Current Focus
 - Developing and customizing web solutions with `WordPress`  
-- Exploring orchestration with `Kubernetes`  
 
 ## Support
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/melih0132)
