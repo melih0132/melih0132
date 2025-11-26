@@ -7,41 +7,42 @@ Annecy, France
 
 ## Professional Summary
 
-Computer Science student specializing in full-stack development with practical experience in designing and deploying web applications, APIs, and database systems. Skilled in modern frameworks, cloud environments, and Agile workflows. Strong focus on building efficient, scalable solutions and continuously advancing technical expertise.
+Computer Science student specializing in full-stack development with experience across web applications, backend systems, APIs, mobile development, data processing, and game development. Capable of working with multi-stack architectures and modern development workflows. Focus on building efficient, scalable, maintainable systems.
 
 ## Technical Skills
 
 ### Programming Languages
 - **Frontend**: `HTML`, `CSS`, `JavaScript (ES6+)`, `XAML`  
 - **Backend**: `Python`, `C#/.NET`, `PHP`, `Bash`  
-- **Databases**: `SQL`, `PL/pgSQL` (PostgreSQL)  
+- **Others**: `Dart` (Flutter), `Swift` (iOS basics)  
+- **Databases**: `SQL`, `PL/pgSQL` (PostgreSQL)
 
 ### Frameworks & Libraries
 - **Frontend**: `React`, `Vue.js`, `Next.js`, `Bootstrap`, `WordPress`  
 - **Backend**: `Node.js`/`Express`, `Laravel`, `FastAPI`, `Socket.io`  
 - **Mobile**: `Flutter`  
-- **APIs**: `REST`, `WebSockets`, `Axios`  
+- **Game Dev**: `Unity`, `Phaser 3`  
+- **APIs**: `REST`, `WebSockets`, `Axios`
 
 ### Database Expertise
-- **Relational**: `PostgreSQL`, `pgAdmin`  
+- **Relational**: `PostgreSQL`, `pgAdmin`, `SQLite`, `MySQL`  
 - **NoSQL**: `MongoDB` (fundamentals)  
-- **Modeling**: `ERD`, `JSON/JSONB` structures  
-- **Optimization**: query tuning, indexing  
+- **Modeling**: `ERD`, `UML`, `JSON/JSONB` structures  
+- **Optimization**: indexing, performance tuning
 
 ### Development Toolkit
-- **IDEs**: `VS Code`, `Visual Studio`  
+- **IDEs**: `VS Code`, `Visual Studio`, `Xcode`  
 - **Version Control**: `Git` with `GitHub` / `GitLab`  
 - **DevOps**: `Docker`, `Nginx`, `Azure`  
-- **Game Dev**: `Unity` (personal projects)  
+- **Game Dev**: `Unity`, `Blender`  
+- **Mobile Dev**: `Android Studio`, `Xcode`
 
 ### Additional Competencies
-- **Data Analysis**: `Power BI`, advanced `Excel`  
+- **Data Analysis**: `Power BI`, advanced `Excel`, `Pandas`, `NumPy`  
 - **UI/UX**: `Figma`, `Framer`, basic `Illustrator`  
-- **Methodologies**: `Agile/Scrum`, `MVC`, `UML`  
+- **Methodologies**: `Agile/Scrum`, `MVC`, `UML`, `Versioning workflows`
 
 ## Current Focus
-- Developing and customizing web solutions with `WordPress`  
-- Exploring orchestration with `Kubernetes`  
-
+- Building and maintaining WordPress-based solutions  
 ## Support
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/melih0132)
